@@ -1,5 +1,5 @@
 # weather-gc-ca-python [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/csianglim/weather-gc-ca-python/master)
-## Jupyter notebooks for scraping Environment Canada weather data
+Jupyter notebooks for scraping Environment Canada weather data
 
 ---
 
