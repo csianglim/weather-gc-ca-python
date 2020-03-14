@@ -1,1 +1,4 @@
+pandas
+seaborn
+bs4
 fuzzywuzzy==0.17.0
