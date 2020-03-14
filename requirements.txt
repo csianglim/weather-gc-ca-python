@@ -1,0 +1,5 @@
+numpy==1.11.1
+pandas==0.18.1
+matplotlib==1.5.1
+seaborn==0.7.0
+fuzzywuzzy==0.17.0
